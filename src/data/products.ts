@@ -158,8 +158,7 @@ export const PRODUCTS: Product[] = [
     category: "pulse",
     name: "White Chana",
     description: "Farm-grown white chickpeas, sourced directly from our fields.",
-    image:
-      "https://images.pexels.com/photos/10111952/pexels-photo-10111952.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=800&w=1200",
+    image:''/chickpeas(1).png
     status: "AVAILABLE",
     unit: "kg",
     featured: true,
