@@ -20,7 +20,7 @@ const CARDS = [
     cta: "Explore Fruits",
     to: "/fruits",
     image:
-      "/pexels-mrcoolhitman-38008357.jpg",
+      "/pexels-mrcoolhitman-38008357.png",
   },
   {
     number: "03",
