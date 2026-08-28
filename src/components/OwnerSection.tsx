@@ -52,7 +52,7 @@ export default function OwnerSection() {
             <Reveal delay={0.15}>
               <p className="label-tag">Team</p>
               <h3 className="font-serif-display mt-3 text-[30px] text-forest-900">
-                Mr. Savitoj Mann
+                Sardar Bhupinder Singh Mann
               </h3>
               <p className="mt-4 max-w-lg text-[16px] leading-relaxed text-forest-900/70">
                 The founder of Mann Organiculture brings years of hands-on
