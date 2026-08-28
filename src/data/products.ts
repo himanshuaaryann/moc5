@@ -112,7 +112,7 @@ export const PRODUCTS: Product[] = [
     name: "Guava ",
     description: "Crisp, naturally ripened Guava  from our orchard.",
     image:
-      "https://www.pexels.com/photo/close-up-of-fresh-guavas-on-a-branch-28884216.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=800&w=1200",
+      "https://images.pexels.com/photos/28884216/pexels-photo-28884216.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=800&w=1200",
     status: "SEASONAL",
     seasonInfo: "Autumn Harvest",
     unit: "kg",
